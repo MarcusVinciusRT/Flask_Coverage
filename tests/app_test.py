@@ -1,6 +1,4 @@
 import unittest
-import sys
-sys.path.append(r'C:\Users\marcusthomazetti-ieg\OneDrive - Instituto Germinare\AulasAnotações2°\Desenvolvimento e Operações Ágeis\Exerc\Flas_Test')  # Substitua pelo caminho real para o diretório raiz do projeto
 from app.app import app
 
 class FlaskAppTests(unittest.TestCase):
